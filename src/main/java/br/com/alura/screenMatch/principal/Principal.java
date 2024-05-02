@@ -1,11 +1,11 @@
-package br.com.alura.screenMartch.principal;
+package br.com.alura.screenMatch.principal;
 
-import br.com.alura.screenMartch.models.DadosEpisodios;
-import br.com.alura.screenMartch.models.DadosTemporada;
-import br.com.alura.screenMartch.models.DadosSerie;
-import br.com.alura.screenMartch.models.Episodio;
-import br.com.alura.screenMartch.service.ConsumoApi;
-import br.com.alura.screenMartch.service.ConverteDados;
+import br.com.alura.screenMatch.models.DadosEpisodios;
+import br.com.alura.screenMatch.models.DadosTemporada;
+import br.com.alura.screenMatch.models.DadosSerie;
+import br.com.alura.screenMatch.models.Episodio;
+import br.com.alura.screenMatch.service.ConsumoApi;
+import br.com.alura.screenMatch.service.ConverteDados;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
